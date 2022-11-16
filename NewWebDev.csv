@@ -1,0 +1,298 @@
+,Unnamed: 0,Gender,Location,CountyNumber,computerProficient,Levelofeducation,Commitment ,AccestoDevice,AccestoInternet,InformationGain,Completed,Lecturer,Selected
+0,0,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,Yes,A,yes
+1,2,Male,Nakuru,32.0,Yes,Freelancer,Yes,Yes,Yes,Email newsletter,no,A,yes
+2,4,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,A,yes
+3,5,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,no,B,yes
+4,6,Male,TransNzoia,26.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+5,7,Female,Nairobi ,47.0,Yes,Diploma,Yes,Yes,Yes,Email newsletter,no,B,yes
+6,8,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,no,A,yes
+7,9,Male,Nyamira ,46.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,no,A,yes
+8,11,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,Yes,A,yes
+9,12,Female,Kilifi,3.0,Yes,Working,Yes,Yes,Yes,Whatsapp ,no,A,yes
+10,14,Female,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Yes,Facebook,no,B,yes
+11,19,Male,Kiambu,22.0,Yes,Diploma,Yes,Yes,Yes,Telegram,Yes,A,yes
+12,21,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+13,24,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,no,D,yes
+14,25,Male,Nairobi ,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,B,yes
+15,26,Male,Nandi,29.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+16,27,Female,Kajiado,34.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,no,D,yes
+17,28,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,LinkedIn,no,B,yes
+18,29,Male,Nyandarua,18.0,Yes,Diploma,Yes,Yes,Yes,Media,Yes,A,yes
+19,30,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+20,31,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+21,32,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,A,yes
+22,34,Female,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Facebook,no,B,yes
+23,35,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,A,yes
+24,38,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Media,Yes,A,yes
+25,40,Male,Nairobi,47.0,Yes,Freelancer,Yes,Yes,Yes,Referral,no,A,yes
+26,41,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+27,43,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,No,Media,Yes,A,yes
+28,44,Male,Makueni,17.0,Yes,Degree,Yes,Yes,Yes,Telegram,Yes,A,yes
+29,46,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,A,yes
+30,47,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,C,yes
+31,48,Female,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Media,no,A,yes
+32,50,Female,Nairobi ,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,B,yes
+33,51,Male,KakaCa,37.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,A,yes
+34,52,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Limited,Referral,no,B,yes
+35,54,Male,Kilifi,3.0,Yes,Not Indicated,Yes,Yes,Yes,Facebook,no,B,yes
+36,56,Male,Kajiado,34.0,Yes,Degree,Yes,Yes,Yes,friend,no,A,yes
+37,58,Male,Kiambu,22.0,Yes,Freelancer,Yes,Yes,Yes,Whatsapp,no,A,yes
+38,60,Male,Nairobi,47.0,Yes,Certificate,Yes,Yes,Yes,Media,no,A,yes
+39,64,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Limited,Email newsletter,Yes,A,yes
+40,65,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,Yes,A,yes
+41,66,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,A,yes
+42,69,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,A,yes
+43,70,Female,Kitui,15.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+44,71,Male,Bungoma,39.0,Yes,Working,Yes,Yes,Yes,Referral,no,B,yes
+45,74,Female,Kisumu,42.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,B,yes
+46,76,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+47,77,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,no,B,yes
+48,80,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Instagram,Yes,A,yes
+49,81,Male,Kiambu,22.0,Yes,Diploma,Yes,Yes,Limited,Referral,Yes,A,yes
+50,85,Female,Nairobi,47.0,Yes,Freelancer,Yes,Yes,Yes,Referral,no,C,yes
+51,87,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+52,90,Female,Bomet,36.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+53,91,Female,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Limited,Facebook,Yes,B,yes
+54,95,Female,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Yes,Referral,no,B,yes
+55,96,Female,Uasin Gishu ,27.0,Yes,Freelancer,Yes,Yes,Yes,Referral,no,B,yes
+56,97,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,C,yes
+57,98,Male,Kitui,15.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+58,99,Female,Mombasa ,1.0,Yes,Degree,Yes,Yes,Yes,Referral,no,D,yes
+59,100,Female,Muranga ,21.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,no,D,yes
+60,106,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,Yes,C,yes
+61,107,Male,Kiambu,22.0,Yes,Diploma,Yes,Yes,Limited,Whatsapp,Yes,C,yes
+62,110,Male,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+63,113,Female,Laikipia,31.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,no,C,yes
+64,116,Female,Kiambu,22.0,Yes,Freelancer,Yes,Yes,Yes,Referral,no,D,yes
+65,118,Male,Nairobi ,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,A,yes
+66,121,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+67,124,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,C,yes
+68,125,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+69,126,Female,Kisumu,42.0,Yes,Diploma,Yes,Yes,Yes,Facebook,Yes,D,yes
+70,127,Female,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Referral,no,A,yes
+71,130,Male,Machakos,16.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,A,yes
+72,132,Male,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+73,133,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Referral,no,D,yes
+74,134,Male,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Limited,Referral,no,A,yes
+75,135,Male,Nairobi,47.0,Yes,Certificate,Yes,Yes,Yes,Referral,no,A,yes
+76,136,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Whatsapp,no,A,yes
+77,137,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+78,139,Male,KakaCa,37.0,Yes,Degree,Yes,Yes,Limited,Referral,no,A,yes
+79,141,Male,Nakuru,32.0,Yes,Not Indicated,Yes,Yes,No,Referral,no,C,yes
+80,142,Male,Nairobi,47.0,Yes,Freelancer,Yes,Yes,Yes,Media,no,D,yes
+81,143,Male,Meru,13.0,Yes,Not Indicated,Yes,Yes,Yes,Facebook,no,D,yes
+82,145,Male,Uasin Gishu,27.0,Yes,Certificate,Yes,Yes,Limited,Referral,no,C,yes
+83,147,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Whatsapp,no,C,yes
+84,149,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Referral,no,A,yes
+85,155,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,C,yes
+86,156,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+87,157,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,LinkedIn,no,C,yes
+88,158,Male,Kericho ,35.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,A,yes
+89,159,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,A,yes
+90,160,Female,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,A,yes
+91,161,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,A,yes
+92,164,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,C,yes
+93,165,Female,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,D,yes
+94,168,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,A,yes
+95,171,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,No,Instagram,no,A,yes
+96,174,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Referral,no,C,yes
+97,177,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+98,178,Female,Bungoma,39.0,Yes,Masters,Yes,Yes,Yes,Whatsapp,Yes,A,yes
+99,179,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Referral,no,A,yes
+100,180,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,C,yes
+101,182,Female,Nairobi ,47.0,Yes,Freelancer,Yes,Yes,Yes,Whatsapp,no,C,yes
+102,184,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,C,yes
+103,185,Male,Kiambu,22.0,Yes,Freelancer,Yes,Yes,Yes,Facebook,Yes,C,yes
+104,187,Male,Machakos,16.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,C,yes
+105,190,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Limited,Referral,Yes,C,yes
+106,191,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+107,193,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+108,194,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Facebook,no,D,yes
+109,198,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Referral,Yes,C,yes
+110,201,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Facebook,no,D,yes
+111,203,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,C,yes
+112,217,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,C,yes
+113,220,Male,Kilifi,3.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+114,226,Female,Kiambu,22.0,Yes,Diploma,Yes,Yes,Limited,Referral,no,A,yes
+115,228,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,A,yes
+116,231,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,LinkedIn,Yes,A,yes
+117,234,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,B,yes
+118,235,Male,KakaCa,37.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,B,yes
+119,237,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+120,242,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,No,Referral,no,B,yes
+121,246,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,D,yes
+122,251,Female,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,D,yes
+123,255,Male,Mombasa,1.0,Yes,Degree,Yes,Yes,Limited,Referral,no,B,yes
+124,256,Male,Nairobi,47.0,Yes,Freelancer,Yes,Yes,Yes,Twitter,no,A,yes
+125,257,Female,Nairobi ,47.0,Yes,Working,Yes,Yes,Yes,Twitter,no,B,yes
+126,258,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Telegram,no,B,yes
+127,259,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,B,yes
+128,265,Male,Elgoyo Marakwet,28.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,B,yes
+129,270,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,LinkedIn,no,C,yes
+130,275,Male,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Media,no,B,yes
+131,279,Male,Nairobi,47.0,Yes,Certificate,Yes,Yes,Yes,LinkedIn,Yes,C,yes
+132,287,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,No,Media,no,C,yes
+133,288,Male,Kitui,15.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,D,yes
+134,290,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,C,yes
+135,292,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,no,C,yes
+136,297,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+137,298,Male,Nairobi,47.0,Yes,Certificate,Yes,Yes,Yes,Email newsletter,no,C,yes
+138,299,Male,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,C,yes
+139,300,Male,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Yes,Referral,no,D,yes
+140,303,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,C,yes
+141,306,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Facebook,no,C,yes
+142,307,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,Yes,E,yes
+143,311,Male,Nairobi ,47.0,Yes,Certificate,Yes,Yes,Limited,Referral,Yes,E,yes
+144,313,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,No,Facebook,no,E,yes
+145,314,Male,Kisumu,42.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,E,yes
+146,316,Female,Kitui,15.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,E,yes
+147,319,Female,Elgeyo Marakwet ,28.0,Yes,Working,Yes,Yes,Yes,Telegram,no,E,yes
+148,324,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Referral,no,A,yes
+149,325,Male,Nyeri,19.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,no,A,yes
+150,326,Male,Nakuru,32.0,Yes,Not Indicated,Yes,Yes,Yes,Facebook,no,D,yes
+151,327,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Referral,no,A,yes
+152,329,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Limited,Facebook,no,B,yes
+153,332,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,E,yes
+154,333,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Whatsapp,no,E,yes
+156,340,Male,Narok,33.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,B,yes
+157,341,Female,Siaya,41.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,C,yes
+158,342,Male,Mombasa,1.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,E,yes
+159,343,Male,Machakos,16.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,B,yes
+160,344,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+161,345,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Yes,LinkedIn,no,E,yes
+162,349,Male,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Yes,Whatsapp ,Yes,D,yes
+163,351,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,E,yes
+164,355,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,Yes,D,yes
+165,357,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,E,yes
+166,359,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Limited,Facebook,Yes,E,yes
+167,364,Male,Nairobi,47.0,Yes,Freelancer,Yes,Yes,Yes,Referral,no,E,yes
+168,368,Male,Nyeri,19.0,Yes,Certificate,Yes,Yes,Yes,Media,no,D,yes
+169,372,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,No,Referral,no,C,yes
+170,373,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Whatsapp ,Yes,E,yes
+171,374,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Referral,no,E,yes
+172,380,Male,West Pokot,24.0,Yes,Degree,Yes,Yes,No,Media,no,C,yes
+173,390,Male,Nakuru,32.0,Yes,Certificate,Yes,Yes,Yes,Email newsletter,no,A,yes
+174,395,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Yes,Referral,no,B,yes
+175,397,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,E,yes
+176,398,Male,Mombasa,1.0,Yes,Degree,Yes,Yes,Limited,Email newsletter,no,C,yes
+177,401,Female,Makueni ,17.0,Yes,Masters,Yes,Yes,Yes,Referral,no,E,yes
+178,403,Female,Kajiado,34.0,Yes,Certificate,Yes,Yes,Yes,Media,no,D,yes
+179,406,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Limited,Whatsapp ,Yes,E,yes
+180,407,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Media,no,B,yes
+181,409,Male,Kajiado,34.0,Yes,Certificate,Yes,Yes,Yes,Facebook,no,E,yes
+182,415,Male,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Yes,Referral,no,E,yes
+183,417,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+184,423,Female,Mombasa,1.0,Yes,Degree,Yes,Yes,Limited,Referral,no,A,yes
+185,425,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,Yes,E,yes
+186,427,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,E,yes
+187,429,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,E,yes
+188,431,Female,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Email newsletter,Yes,E,yes
+189,436,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp ,Yes,E,yes
+190,438,Male,Mombasa ,1.0,Yes,Working,Yes,Yes,Yes,Twitter,Yes,A,yes
+191,441,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Whatsapp ,no,C,yes
+192,442,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+193,443,Male,Meru,12.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+194,446,Female,Nandi,29.0,Yes,Degree,Yes,Yes,Yes,Friend,no,A,yes
+195,447,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Whatsapp ,no,E,yes
+196,450,Male,Kajiado,34.0,Yes,Not Indicated,Yes,Yes,Yes,Referral,Yes,D,yes
+197,451,Male,Baringo,30.0,Yes,Degree,Yes,Yes,Yes,Facebook,Yes,E,yes
+198,452,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+199,455,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Facebook,no,A,yes
+200,457,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,B,yes
+201,458,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,E,yes
+202,459,Male,Kisumu,42.0,Yes,Diploma,Yes,Yes,Yes,Media,no,E,yes
+203,460,Male,Embu,14.0,Yes,Working,Yes,Yes,Yes,Twitter,no,E,yes
+204,466,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,D,yes
+205,468,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,no,D,yes
+206,473,Male,Kisumu,42.0,Yes,Working,Yes,Yes,Yes,Twitter,no,D,yes
+207,475,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,D,yes
+208,478,Male,Kericho,35.0,Yes,Working,Yes,Yes,Yes,Twitter,no,D,yes
+209,480,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,no,D,yes
+210,484,Male,Uasin Gishu,27.0,Yes,Not Indicated,Yes,Yes,Yes,Facebook,no,A,yes
+211,485,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,D,yes
+212,486,Female,Nairobi ,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,D,yes
+213,487,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Instagram,Yes,D,yes
+214,489,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Facebook,no,D,yes
+215,491,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,A,yes
+216,493,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Limited,Media,no,A,yes
+217,496,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,D,yes
+218,498,Male,Muranga,21.0,Yes,Degree,Yes,Yes,Yes,Referral,no,D,yes
+219,499,Female,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Instagram,Yes,D,yes
+220,501,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,LinkedIn,Yes,D,yes
+221,502,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,D,yes
+222,505,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,D,yes
+223,509,Male,Kiambu,22.0,Yes,Masters,Yes,Yes,Yes,Twitter,no,B,yes
+224,514,Male,Nairobi,47.0,Yes,Certificate,Yes,Yes,Yes,Twitter,no,D,yes
+225,516,Male,International,50.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,D,yes
+226,518,Male,Uasin Gishu,27.0,Yes,Working,Yes,Yes,Yes,Twitter,no,D,yes
+227,519,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,D,yes
+228,520,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Facebook,no,C,yes
+229,521,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,LinkedIn,no,D,yes
+230,522,Male,Mombasa,1.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,D,yes
+231,527,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,B,yes
+232,529,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+233,530,Male,Nakuru,32.0,Yes,Degree,Yes,Yes,Limited,Twitter,no,D,yes
+234,532,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Instagram ,no,D,yes
+235,533,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,No,Referral,no,D,yes
+236,534,Male,Kilifi,3.0,Yes,Working,Yes,Yes,Yes,Email newsletter,no,C,yes
+237,541,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Referral,no,D,yes
+238,542,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,no,D,yes
+239,544,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,D,yes
+240,547,Female,Makueni,17.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,C,yes
+241,548,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp,no,D,yes
+242,551,Female,Muranga,21.0,Yes,Degree,Yes,Yes,Yes,Referral,no,D,yes
+243,557,Male,Nairobi,47.0,Yes,Freelancer,Yes,Yes,Yes,Twitter,no,D,yes
+244,562,Female,Kiambu,22.0,Yes,Not Indicated,Yes,Yes,Yes,Twitter,no,D,yes
+245,566,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Facebook,no,D,yes
+246,567,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Twitter,no,D,yes
+247,570,Female,KakaCa,37.0,Yes,Certificate,Yes,Yes,Yes,Media,no,B,yes
+248,573,Male,Nandi,29.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,C,yes
+249,577,Male,Nairobi,47.0,Yes,Diploma,Yes,Yes,Yes,Referral,Yes,C,yes
+250,578,Male,Machakos,16.0,Yes,Degree,Yes,Yes,Limited,Facebook,no,D,yes
+251,581,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Twitter,Yes,B,yes
+252,582,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,C,yes
+253,585,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,C,yes
+254,589,Male,Kitui,15.0,Yes,Degree,Yes,Yes,Limited,Media,no,C,yes
+255,590,Female,Kitui,15.0,Yes,Degree,Yes,Yes,No,Twitter,no,C,yes
+256,591,Male,Nandi,29.0,Yes,Masters,Yes,Yes,Yes,Twitter,Yes,B,yes
+257,601,Male,Embu,14.0,Yes,Working,Yes,Yes,Yes,Media,Yes,B,yes
+258,602,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Whatsapp,no,D,yes
+259,604,Female,Kirinyaga,20.0,Yes,Diploma,Yes,Yes,Yes,LinkedIn,Yes,D,yes
+260,606,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+261,609,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,B,yes
+262,610,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,Yes,B,yes
+263,611,Female,Kiambu,22.0,Yes,Not Indicated,Yes,Yes,Yes,Referral,Yes,B,yes
+264,616,Female,Mombasa,1.0,Yes,Degree,Yes,Yes,Yes,Media,no,B,yes
+265,618,Male,Kiambu,1.0,Yes,Freelancer,Yes,Yes,Yes,Twitter,no,B,yes
+266,621,Male,Kisumu,42.0,Yes,Working,Yes,Yes,Yes,Referral,no,B,yes
+267,622,Male,Kisii,45.0,Yes,Degree,Yes,Yes,Yes,Twitter,Yes,B,yes
+268,624,Male,Bungoma,39.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+269,625,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Whatsapp ,no,B,yes
+270,627,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,B,yes
+271,629,Female,Nakuru,32.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+272,630,Female,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Referral,Yes,B,yes
+273,632,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+274,633,Male,KakaCa,37.0,Yes,Masters,Yes,Yes,Yes,Whatsapp ,Yes,B,yes
+275,634,Female,Muranga ,21.0,Yes,Degree,Yes,Yes,No,Whatsapp ,Yes,B,yes
+276,635,Male,Kiambu,22.0,Yes,Diploma,Yes,Yes,Yes,Referral,Yes,D,yes
+277,636,Male,Kiambu,22.0,Yes,Diploma,Yes,Yes,Yes,Referral,Yes,B,yes
+278,638,Male,Mombasa,1.0,Yes,Degree,Yes,Yes,Yes,Media,Yes,A,yes
+279,640,Male,Uasin Gishu,27.0,Yes,Degree,Yes,Yes,Yes,Twitter,no,C,yes
+280,643,Female,Tharaka Nithi,13.0,Yes,Working,Yes,Yes,Limited,Referral,no,A,yes
+281,644,Male,International,50.0,Yes,Degree,Yes,Yes,Yes,Referral,no,C,yes
+282,645,Male,Migori,44.0,Yes,Diploma,Yes,Yes,Yes,Referral,Yes,B,yes
+283,646,Male,Kisumu,42.0,Yes,Certificate,Yes,Yes,Limited,Media,no,A,yes
+284,648,Female,Nairobi,47.0,Yes,Diploma,Yes,Yes,Limited,Referral,no,B,yes
+285,650,Male,Kisii,45.0,Yes,Working,Yes,Yes,Yes,Bulk-SMS,no,B,yes
+286,654,Female,Kisumu ,42.0,Yes,Working,Yes,Yes,Yes,Referral,no,A,yes
+287,655,Male,Nakuru,32.0,Yes,Not Indicated,Yes,Yes,Yes,Referral,no,D,yes
+288,656,Female,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,Yes,B,yes
+289,660,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Media,no,A,yes
+290,661,Male,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Whatsapp,no,B,yes
+291,663,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Yes,Media,no,B,yes
+292,667,Female,Nairobi,47.0,Yes,Working,Yes,Yes,Yes,Referral,Yes,C,yes
+293,668,Male,Kiambu,22.0,Yes,Degree,Yes,Yes,Yes,Referral,no,A,yes
+294,669,Male,Nairobi,47.0,Yes,Degree,Yes,Yes,Limited,Referral,no,A,yes
+295,670,Female,Kiambu,22.0,Yes,Degree,Yes,Yes,Limited,Referral,no,A,yes
+296,672,Male,Kiambu,22.0,Yes,Certificate,Yes,Yes,Limited,Referral,no,C,yes
+297,677,Female,Nairobi,47.0,Yes,Not Indicated,Yes,Yes,Yes,Media,Yes,B,yes
